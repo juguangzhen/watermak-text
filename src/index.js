@@ -8,7 +8,6 @@
 let watermark = {}
 /**
  * @desc data.el data.str, data.id
- * 全局id唯一
  * */
 let setWatermark = (data, onresize) => {
     let defaultWaterConf = {
